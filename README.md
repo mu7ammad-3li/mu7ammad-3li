@@ -1,90 +1,114 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Ali
+# Muhammad Ali
 
-### Full Stack Product Engineer | AWS Cloud Specialist | AI Integration Expert
+### Backend Engineer | AI Systems & Agentic Architectures
+
+Building autonomous AI systems, multi-agent platforms, and LLM-powered applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-3lii/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/Mu7ammad_3lii)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://mu7ammad-3li.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:mu7ammad.3lii2@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mu7ammad-3li&color=blueviolet&style=flat)
-
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Full Stack Product Engineer with **3+ years** building enterprise applications and cloud infrastructure. I specialize in **AWS automation**, **MERN development**, and **AI-powered solutions** that deliver measurable business impact.
+Backend Engineer specializing in **AI-powered systems** and **multi-agent architectures**. I build production LLM applications with RAG, semantic caching, and scalable infrastructure.
 
-- ⚡ Reduced build times by **75%** (2 hours → 30 minutes) using AWS automation
-- 💰 Cut infrastructure costs by **38%** through spot instance optimization
-- 🤖 Built RAG-powered AI systems with Google Genkit for customer support
-- 🏢 Led complete digital transformation as sole engineer at Bella Egypt
-- 🔐 Implemented enterprise security (DRM, encryption, IAM policies)
-- 📊 Maintained critical systems with **99.9% uptime**
-
----
-
-## 🎯 Currently
-
-- 🔭 **Contract Software Engineer** building secure digital publishing infrastructure
-- 🌱 Learning **Advanced AWS**, **Microservices**, and **GraphQL**
-- 💼 **Open to remote opportunities** and consulting projects
-- 🤝 Available for **full-time**, **contract**, or **freelance** work
+```
+🤖 40-80% LLM cost reduction via semantic caching (pgvector)
+🚀 Multi-agent platforms handling 1000+ concurrent conversations
+⚡ <200ms response latency with intelligent caching
+💰 99.7% infrastructure cost reduction through cloud automation
+```
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 [Assist+](https://github.com/mu7ammad-3li/assist-plus) — Multi-Agent AI Platform
+Enterprise-grade SaaS deploying autonomous chatbots across Facebook, Instagram & WhatsApp.
+
+`Bun` `Hono` `PostgreSQL` `pgvector` `Redis` `BullMQ` `OpenRouter`
+
+- **RAG-Powered Responses** — Knowledge retrieval with pgvector embeddings
+- **Semantic Caching** — 40-80% LLM cost reduction via similarity search
+- **Multi-Agent Engine** — Independent bots with context, lead extraction, handoff
+- **Background Processing** — BullMQ workers for async message handling
+
+---
+
+### 📄 [CV-lize](https://cv-lize.vercel.app) — AI Document Analysis
+Resume optimization with NLP pipelines and multi-model AI architecture.
+
+`Python` `FastAPI` `spaCy` `OpenRouter` `MongoDB`
+
+- **Multi-Model AI** — OpenRouter + Gemini fallback with auto-failover
+- **NLP Pipeline** — Entity extraction, skill detection, keyword analysis
+- **95%+ ATS Scoring** — Job description matching with STAR methodology
+
+---
+
+### 💬 [OmniAssistant](https://github.com/mu7ammad-3li/omniassistant) — RAG Conversational Agent
+Knowledge retrieval chatbot with lead qualification automation.
+
+`Next.js` `Google Genkit` `Gemini` `TypeScript`
+
+---
+
+### 🏢 [MERIDIEN](https://github.com/meridien-engine) — Multi-Tenant SaaS Backend
+Scalable retail management system with clean architecture.
+
+`Go` `Gin` `PostgreSQL` `GORM` `Flutter`
+
+---
+
+## Tech Stack
+
+### AI & LLM
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### Backend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Specializations:** AWS (EC2, S3, CloudFormation, IAM) • MERN Stack • AI Integration (Genkit, Gemini, OpenAI) • DevOps & CI/CD • Electron • Security (JWT, RBAC, Encryption)
+**Specializations:** RAG Systems • Semantic Caching • Multi-Agent Architectures • LLM Integration • Vector Databases • Background Processing
 
 ---
 
-## 🤝 Let's Connect
+## Currently Exploring
+
+- 🚀 **Go + Python AI Stack** — Go (Golang) for high-performance backend, Python for agentic AI intelligence
+- 🤖 **Google Agent Development Kit (ADK)** — Building multi-agent systems with Google's agent framework
+- 🔄 **Multi-Agent Collaboration** — Agents delegating to specialized sub-agents
+- 🛠️ **Tool-Using Agents** — LLMs executing code and calling external APIs
+- 🧠 **Long-Term Memory** — Persistent memory across conversation sessions
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-3lii/)
-[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mu7ammad_3lii)
+### 💼 Open to Remote Opportunities
+
+**Backend Engineer | AI Systems | Agentic Architectures**
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu7ammad.3lii2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mu7ammad-3li.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-3lii/)
 
 **📍 Cairo, Egypt | 🌍 Remote Worldwide**
-
-</div>
-
----
-
-## 💼 Open to Remote Opportunities
-
-**Specializing in:** AWS Cloud Infrastructure • MERN Stack • AI Integration • Cost Optimization
-
-Available for full-time, contract, and freelance work worldwide.
-
----
-
-<div align="center">
-
-**⭐ From [Muhammad Ali](https://github.com/mu7ammad-3li)**
-
-*Building scalable solutions that deliver measurable business impact*
 
 </div>
